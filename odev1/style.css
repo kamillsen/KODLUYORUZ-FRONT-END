@@ -1,0 +1,45 @@
+/********************************************************Ana Sayfa*******************************************************/
+
+.baslikA {
+    color: red;
+    text-align: center;
+}
+
+
+.linkA {
+    text-align: center;
+}
+
+a {
+    margin-right: 15px;
+}
+
+.ul-property-AnaSayfa {
+  list-style-position: inside
+}
+
+
+/******************************************************* Ürünler **********************************************************/
+
+.linkU {
+    text-align: center;
+}
+
+
+.baslikU {
+    color: red;
+    text-align: center;
+}
+
+.ol-property-Urunler{
+    list-style-position: inside
+}
+
+
+
+
+/*****************************************************Hakkımızda****************************************************/
+
+h3 {
+    color: blanchedalmond;
+}
