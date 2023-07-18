@@ -1,0 +1,54 @@
+.yazi-parlatma {
+    transition: color 0.3s ease;
+  }
+  
+  .yazi-parlatma:hover {
+    color: white;
+  }
+.text-features{
+
+    text-align: center;
+    font-size: 75px;
+
+    color: red;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+
+}
+
+.p-color{
+
+  color: #daa520;
+  font-size: 25px;
+  font-weight: 500;
+
+}
+
+.title{
+  color: #810c73;
+
+
+}
+
+.row-margin{
+margin-top: 30px;
+}
+
+.price{
+  background-color: #6d6969; 
+  color:white;  display: inline-block;
+  width: 30px;
+  height: 15px;
+  border-radius: 25%;
+  padding-left: 2px;
+  font-size: 10px;
+}
+
+.yazi{
+  color:#b5b0b0;
+  padding-top: 15px;
+  
+}
